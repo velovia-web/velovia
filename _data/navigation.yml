@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Articoli"
+  - title: "Home"
     url: /
   - title: "Categorie"
     url: /categorie/
