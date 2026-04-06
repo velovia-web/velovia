@@ -4,7 +4,11 @@ date: 2026-04-04
 categories: [bike-to-work]
 tags: [bici, lavoro, mobilità]
 layout: single
-author_profile: true
+author_profile: false
+header:
+  overlay_image: /assets/images/posts/post1.webp
+  overlay_filter: 0.5
+  teaser: /assets/images/posts/post1.webp
 ---
 
 Ci sei mai arrivato in ufficio già esausto, dopo venti minuti incastrato nel traffico, con la testa che già bolliva prima ancora di accendere il computer? Sì, anche io. Poi un giorno ho provato ad andarci in bici. E no, non è diventata una di quelle storie da film motivazionale — ci sono volute un paio di settimane di aggiustamenti, qualche mattina storta e una giacca impermeabile comprata con urgenza. Ma oggi non tornerei indietro.
