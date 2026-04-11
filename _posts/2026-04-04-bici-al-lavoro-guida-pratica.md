@@ -5,6 +5,7 @@ categories: [bike-to-work]
 tags: [bici, lavoro, mobilità]
 layout: single
 author_profile: false
+excerpt: "Una guida semplice per iniziare ad andare al lavoro in bici, senza stress e senza aspettare il momento perfetto."
 header:
   overlay_image: /assets/images/posts/post1.webp
   overlay_filter: 0.5
