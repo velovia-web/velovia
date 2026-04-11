@@ -309,8 +309,6 @@ defaults:
       comments: # true
       share: false
       related: true
-      sidebar:
-        nav: "sidebar-tags"
         
 # Categories and tags
 category_archive:
