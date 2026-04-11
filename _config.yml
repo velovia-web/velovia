@@ -307,9 +307,11 @@ defaults:
       author_profile: false
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
-
+      sidebar:
+        nav: "sidebar-tags"
+        
 # Categories and tags
 category_archive:
   type: liquid
