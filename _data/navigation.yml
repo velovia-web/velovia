@@ -4,9 +4,17 @@ main:
     url: /
   - title: "categorie"
     url: /categorie/
-  - title: "tag"
-    url: /tag/
 
+# sidebar
+sidebar-tags:
+  - title: "Tag"
+    children:
+      - title: "bici"
+        url: /tag/#bici
+      - title: "lavoro"
+        url: /tag/#lavoro
+      - title: "mobilità"
+        url: /tag/#mobilità
 # main:
   # - title: # "Quick-Start Guide"
   #   url: # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
