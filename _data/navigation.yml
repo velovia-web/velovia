@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Home"
+  - title: "home"
     url: /
-  - title: "Categorie"
+  - title: "categorie"
     url: /categorie/
+  - title: "tag"
+    url: /tag/
 
 # main:
   # - title: # "Quick-Start Guide"
