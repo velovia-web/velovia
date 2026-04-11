@@ -310,3 +310,11 @@ defaults:
       share: true
       related: true
 
+# Categories and tags
+category_archive:
+  type: liquid
+  path: /categorie/
+
+tag_archive:
+  type: liquid
+  path: /tag/
